@@ -1,0 +1,12 @@
+2024-09-16 13:52:52.992 Laba-1[21489:2318107] 
+Unhandled Exception:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Laba1.ViewController.ViewDidLoad () [0x0004d] in <9ec529a56376454fba60ff503e8ae5e3>:0 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,intptr)
+  at AppKit.NSApplication.Main (System.String[] args) [0x00048] in <f4a86d446a4d4fd4b5cc8fd24b7e70b9>:0 
+  at Laba1.MainClass.Main (System.String[] args) [0x00005] in <9ec529a56376454fba60ff503e8ae5e3>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at Laba1.ViewController.ViewDidLoad () [0x0004d] in <9ec529a56376454fba60ff503e8ae5e3>:0 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,intptr)
+  at AppKit.NSApplication.Main (System.String[] args) [0x00048] in <f4a86d446a4d4fd4b5cc8fd24b7e70b9>:0 
+  at Laba1.MainClass.Main (System.String[] args) [0x00005] in <9ec529a56376454fba60ff503e8ae5e3>:0 

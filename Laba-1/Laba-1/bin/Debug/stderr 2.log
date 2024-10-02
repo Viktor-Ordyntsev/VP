@@ -1,0 +1,2 @@
+2024-09-16 14:11:36.609 Laba-1[22326:2335965] WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:.
+2024-09-16 14:11:49.791 Laba-1[22326:2335965] error: mono_coop_mutex_lock Cannot transition thread 0x2056c4240 from STATE_BLOCKING_SUSPEND_REQUESTED with DO_BLOCKING

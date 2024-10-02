@@ -1,0 +1,69 @@
+DeleteBtn is not initialized.
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a abrt while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Native stacktrace:
+=================================================================
+	0x104b58ba6 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_dump_native_crash_info
+	0x104b4c70e - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_handle_native_crash
+	0x104b581cf - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : sigabrt_signal_handler
+	0x7ff8139f2fdd - /usr/lib/system/libsystem_platform.dylib : _sigtramp
+	0x0 - Unknown
+	0x7ff8138e9a79 - /usr/lib/system/libsystem_c.dylib : abort
+	0x104a68f20 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : _ZL12log_callbackPKcS0_S0_iPv
+	0x104d7a148 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : monoeg_g_logv_nofree
+	0x104d7a1f2 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : monoeg_g_log
+	0x104d6b0ac - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_threads_transition_do_blocking
+	0x104d688b1 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_threads_enter_gc_safe_region_unbalanced_with_info
+	0x104cef318 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_coop_mutex_lock
+	0x104cea0d3 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_thread_execute_interruption
+	0x104cf0f8d - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_thread_execute_interruption_ptr
+	0x104cf1453 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : self_interrupt_thread
+	0x7ff813614e26 - /usr/lib/libobjc.A.dylib : _ZN13list_array_ttIm15protocol_list_t6RawPtrE12iteratorImplILb0EEppEv
+	0x104a6662f - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : xamarin_get_method_and_object_for_selector
+	0x104a71ee4 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : xamarin_invoke_trampoline
+	0x104a75109 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : xamarin_arch_trampoline
+	0x104a762ea - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : xamarin_x86_64_common_trampoline
+	0x7ff813a96df6 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+	0x7ff813b26a6c - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : ___CFXRegistrationPost_block_invoke
+	0x7ff813b269bd - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : _CFXRegistrationPost
+	0x7ff813a66749 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : _CFXNotificationPost
+	0x7ff81495e86e - /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation : -[NSNotificationCenter postNotificationName:object:userInfo:]
+	0x7ff8172d7a46 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication terminate:]
+	0x7ff81743aa21 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication _terminateFromSender:askIfShouldTerminate:saveWindows:]
+	0x7ff81743a928 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : __52-[NSApplication(NSAppleEventHandling) _handleAEQuit]_block_invoke
+	0x7ff817553d92 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : ___NSMainRunLoopPerformBlockInModes_block_invoke
+	0x7ff813aa140e - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : __CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__
+	0x7ff813aa1347 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : __CFRunLoopDoBlocks
+	0x7ff813aa01a6 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : __CFRunLoopRun
+	0x7ff813a9f859 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : CFRunLoopRunSpecific
+	0x7ff81e998a09 - /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox : RunCurrentEventLoopInMode
+	0x7ff81e998646 - /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox : ReceiveNextEventCommon
+	0x7ff81e998561 - /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox : _BlockUntilNextEventMatchingListInModeWithFilter
+	0x7ff817071171 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : _DPSNextEvent
+	0x7ff817985af0 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+	0x7ff817062585 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication run]
+	0x7ff8170364f3 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : NSApplicationMain
+	0x1144df811 - Unknown
+	0x1144dede3 - Unknown
+	0x10e14a83b - Unknown
+	0x10e14a9b1 - Unknown
+	0x104b634f3 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_jit_runtime_invoke
+	0x104c97bc8 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_runtime_invoke_checked
+	0x104c9efe5 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_runtime_exec_main_checked
+	0x104abe38c - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_jit_exec
+	0x104ac1428 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : mono_main
+	0x104a76c93 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : xamarin_main
+	0x104a77aa4 - /Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Debug/Laba-1.app/Contents/MacOS/Laba-1 : main
+	0x205630345 - Unknown
+
+=================================================================
+	Telemetry Dumper:
+=================================================================

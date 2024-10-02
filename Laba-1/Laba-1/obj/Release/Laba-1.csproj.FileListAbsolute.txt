@@ -1,0 +1,16 @@
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Release/Laba-1.exe
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/bin/Release/Laba-1.pdb
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/actool/_PartialAppManifest.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/coremlc/_PartialAppManifest.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/_ProcessedContentPath.items
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/Laba-1.csproj.AssemblyReference.cache
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/Laba-1.csproj.CoreCompileInputs.cache
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/Laba-1.exe
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Release/Laba-1.pdb

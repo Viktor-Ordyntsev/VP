@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Laba-1.app/Contents/MacOS/Laba-1">
+      <BCSymbolMapName>Laba-1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Laba-1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Laba-1.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/a1/Desktop/ВП/Laba-1/Laba-1</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

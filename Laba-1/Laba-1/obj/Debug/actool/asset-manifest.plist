@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/actool/bundle/AppIcon.icns</string>
+			<string>/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/actool/bundle/Assets.car</string>
+			<string>/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/actool/partial-info.plist</string>
+		</array>
+	</dict>
+</dict>
+</plist>

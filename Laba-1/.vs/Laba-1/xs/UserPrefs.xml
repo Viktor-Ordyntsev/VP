@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7FD93C4C-99D5-45D9-95CA-BA0EBC76793A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Laba-1 PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba-1/ViewController.cs">
+    <Files>
+      <File FileName="Laba-1/ViewController.cs" Line="43" Column="14" />
+      <File FileName="Laba-1/ViewController.designer.cs" />
+      <File FileName="Laba-1/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laba-1" expanded="True">
+            <Node name="Laba-1" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

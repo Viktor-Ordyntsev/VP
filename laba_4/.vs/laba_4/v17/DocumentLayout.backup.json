@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|c:\\mac\\home\\desktop\\\u0432\u043F\\laba_4\\laba_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|solutionrelative:laba_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|c:\\mac\\home\\desktop\\\u0432\u043F\\laba_4\\laba_4\\genericsascsortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|solutionrelative:laba_4\\genericsascsortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|c:\\mac\\home\\desktop\\\u0432\u043F\\laba_4\\laba_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|solutionrelative:laba_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|c:\\mac\\home\\desktop\\\u0432\u043F\\laba_4\\laba_4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|solutionrelative:laba_4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|c:\\mac\\home\\desktop\\\u0432\u043F\\laba_4\\laba_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7F8B11-FA3D-4BE9-B178-E68573BBCD25}|laba_4\\laba_4.csproj|solutionrelative:laba_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "laba_4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.Designer.cs",
+              "RelativeToolTip": "laba_4\\Form1.Designer.cs",
+              "ViewState": "AgIAAJsAAACAmZmZmZkZwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:38:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Program.cs",
+              "RelativeDocumentMoniker": "laba_4\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Program.cs",
+              "RelativeToolTip": "laba_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:34:49.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericsAscSortedList.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\GenericsAscSortedList.cs",
+              "RelativeDocumentMoniker": "laba_4\\GenericsAscSortedList.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\GenericsAscSortedList.cs",
+              "RelativeToolTip": "laba_4\\GenericsAscSortedList.cs",
+              "ViewState": "AgIAAGEAAADA/////38lwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:34:28.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.cs",
+              "RelativeDocumentMoniker": "laba_4\\Form1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.cs",
+              "RelativeToolTip": "laba_4\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAgm5mZmdkowEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:27:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.cs",
+              "RelativeDocumentMoniker": "laba_4\\Form1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u0412\u041F\\laba_4\\laba_4\\Form1.cs [Design]",
+              "RelativeToolTip": "laba_4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:38:36.166Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

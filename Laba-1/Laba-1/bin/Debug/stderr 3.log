@@ -1,0 +1,1 @@
+2024-09-17 12:24:19.785 Laba-1[25590:2686469] WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:.

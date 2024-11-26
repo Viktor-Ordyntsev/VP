@@ -9,6 +9,7 @@ namespace Laba1
         // Данные для таблицы
         private NSMutableArray tableData;
 
+
         public ViewController(IntPtr handle) : base(handle)
         {
         }
@@ -24,16 +25,15 @@ namespace Laba1
                 new NSString("Пример строки 2")
             };
 
-            // Проверка и установка источника данных для таблицы
-            if (TAb != null)
-            {
-                TAb.DataSource = new TableDataSource(tableData);
-            }
-            else
-            {
-                Console.WriteLine("TAb is not initialized.");
-            }
 
+            TAb = new NSTableView
+            {
+                DataSource = new TableDataSource(tableData),
+                Delegate = new TableDelegate(this)
+            };
+
+
+            DeleteBtn = new NSButton();
             // Изначально кнопка удаления отключена
             if (DeleteBtn != null)
             {
@@ -52,7 +52,8 @@ namespace Laba1
             {
                 // Добавляем новую строку в таблицу
                 tableData.Add(new NSString("Новая строка"));
-                TAb.ReloadData();  // Обновляем таблицу, чтобы новые данные отображались
+                TAb.SetValueForKey(tableData.GetItem(index));
+                TAb.ReloadData();  
             }
             else
             {
@@ -60,7 +61,41 @@ namespace Laba1
             }
         }
 
-    
+        // Метод, вызываемый при нажатии на кнопку "DeleteButton"
+        partial void DeleteButton(NSObject sender)
+        {
+            if (TAb == null)
+            {
+                Console.WriteLine("TAb is not initialized.");
+                return;
+            }
+
+            if (tableData == null)
+            {
+                Console.WriteLine("tableData is not initialized.");
+                return;
+            }
+
+            int selectedRow = (int)TAb.SelectedRow;
+            if (selectedRow >= 0)
+            {
+
+                tableData.RemoveLastObject();
+     
+            }
+
+            // Отключаем кнопку удаления, если ничего не выбрано
+            DeleteBtn.Enabled = TAb.SelectedRow >= 0;
+        }
+
+        // Метод для активации кнопки удаления при выборе строки
+        public void UpdateDeleteButtonState()
+        {
+            if (DeleteBtn != null && TAb != null)
+            {
+                DeleteBtn.Enabled = TAb.SelectedRow >= 0; // Включаем кнопку, если строка выбрана
+            }
+        }
     }
 
     // Источник данных для NSTableView
@@ -83,6 +118,24 @@ namespace Laba1
         public override NSObject GetObjectValue(NSTableView tableView, NSTableColumn tableColumn, nint row)
         {
             return data.GetItem<NSString>((nuint)row);
+        }
+    }
+
+    // Делегат для NSTableView
+    public class TableDelegate : NSTableViewDelegate
+    {
+        private ViewController controller;
+
+        public TableDelegate(ViewController controller)
+        {
+            this.controller = controller;
+        }
+
+        // Метод вызывается при изменении выбора строки
+        public override void SelectionDidChange(NSNotification notification)
+        {
+            // Обновляем состояние кнопки удаления
+            controller.UpdateDeleteButtonState();
         }
     }
 }

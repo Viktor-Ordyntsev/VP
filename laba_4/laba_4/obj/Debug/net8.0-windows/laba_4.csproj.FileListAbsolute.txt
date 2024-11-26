@@ -1,0 +1,17 @@
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\bin\Debug\net8.0-windows\laba_4.exe
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\bin\Debug\net8.0-windows\laba_4.deps.json
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\bin\Debug\net8.0-windows\laba_4.runtimeconfig.json
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\bin\Debug\net8.0-windows\laba_4.dll
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\bin\Debug\net8.0-windows\laba_4.pdb
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\SortedListExample.Form1.resources
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.AssemblyInfo.cs
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.sourcelink.json
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.dll
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\refint\laba_4.dll
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.pdb
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\laba_4.genruntimeconfig.cache
+C:\Mac\Home\Desktop\ВП\laba_4\laba_4\obj\Debug\net8.0-windows\ref\laba_4.dll

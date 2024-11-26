@@ -10,10 +10,10 @@
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/_ProcessedBundleResourcesPath.items
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/_ProcessedContentPath.items
-/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/Laba-1.csproj.AssemblyReference.cache
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/Laba-1.csproj.CoreCompileInputs.cache
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/Laba-1.exe
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/Laba-1.pdb
+/Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/Laba-1.csproj.AssemblyReference.cache
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/resourcestamps/mscorlib.stamp
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/resourcestamps/System.Core.stamp
 /Users/a1/Desktop/ВП/Laba-1/Laba-1/obj/Debug/resourcestamps/System.stamp
